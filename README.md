@@ -1,10 +1,8 @@
+# EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
 ###  DATE: 22/03/2024
 ###  NAME: Shehan Shajahan
 ###  ROLL NO : 212223240154
 ###  DEPARTMENT: AIML
-
-
-# EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
 
 ### AIM
 To interface an Analog output (servo motor) and modify the angular displacement of the servo using PWM signal .
@@ -121,6 +119,13 @@ void loop()
 ```
 ### ON Condition:
 ![Screenshot 2024-03-22 104906](https://github.com/shehanshajahan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/139317389/c78aa5db-d453-4c1e-8630-c3ae5b1f481e)
+## OFF Condition:
+![Screenshot 2024-03-22 104915](https://github.com/shehanshajahan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/139317389/5d7289fc-dd01-4446-ad97-46859cf617ac)
+## Graph:
+![Screenshot 2024-03-22 104831](https://github.com/shehanshajahan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/139317389/f7cee164-dbfd-4d7d-bba9-9ee6fad2f797)
+## Schematic Diagram:
+![Screenshot 2024-03-22 105107](https://github.com/shehanshajahan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/139317389/54f08b1a-07d0-45d8-9b47-4f3a58c2f141)
+
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled .
